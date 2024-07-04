@@ -1,9 +1,11 @@
 CRYPTOCURRENCY PRICE ANALYSIS USING MACHINE LEARNING
 
 
+
 OVERVIEW
 
 This project utilizes machine learning techniques to analyze and predict cryptocurrency prices. It includes data preprocessing, feature engineering, model selection, and evaluation.
+
 
 
 FEATURES
@@ -19,11 +21,13 @@ Model Training     : Implements various machine learning models (e.g., regressio
 Evaluation         : Evaluates models using metrics like RMSE, MAE, and visualizes predictions vs. actual prices.
 
 
+
 INSTALLATION
 
 Clone the repository
 
 Install dependencies
+
 
 
 REQUIREMENTS
@@ -39,6 +43,7 @@ pandas
 scikit-learn
 
 matplotlib
+
 
 
 USAGE
